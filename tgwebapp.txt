@@ -1,0 +1,1 @@
+query_id=AAEKkFBwAAAAAAqQUHAAEe44&user=%7B%22id%22%3A1884327946%2C%22first_name%22%3A%22bangdayears%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22bangdayears%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1721629427&hash=fb197116ab10df1396c5120a4909b5da3571b34ae62180399b7c348bc0bf36ea
